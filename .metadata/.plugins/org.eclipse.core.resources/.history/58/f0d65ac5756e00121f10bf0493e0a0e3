@@ -1,0 +1,22 @@
+package com.google.zxing.qrcode;
+
+import java.util.Hashtable;
+
+import com.google.zxing.EncodeHintType;
+
+
+public class Hastable_Encode {
+	
+	public Hashtable hastable_Encode(String str){
+		Hashtable hints= new Hashtable();   
+		try{
+	
+    hints.put(EncodeHintType.CHARACTER_SET, str);
+		}
+		catch(Exception ex){
+			
+		}
+    return hints;
+	}
+
+}

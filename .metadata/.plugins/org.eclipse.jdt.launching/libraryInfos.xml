@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\MyEclipse 6.0" version="1.5.0_11">
+<bootpath>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\i18n.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jre1.6.0_02" version="1.6.0_02">
+<bootpath>
+<entry path="C:\Program Files\Java\jre1.6.0_02\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jre1.6.0_02\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jre1.6.0_02\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jre1.6.0_02\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jre1.6.0_02\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jre1.6.0_02\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jre1.6.0_02\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jre1.6.0_02\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jre1.6.0_02\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\MyEclipse 6.0\jre" version="1.5.0_11">
+<bootpath>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\i18n.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\MyEclipse 6.0\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

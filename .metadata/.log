@@ -1,0 +1,81 @@
+!SESSION 2013-01-31 18:34:57.613 -----------------------------------------------
+eclipse.buildId=M20070921-1145
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.579
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.658
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.673
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.704
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.736
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.767
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.814
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.845
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.876
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.907
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2013-01-31 18:35:09.939
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2013-01-31 18:36:00.005
+!MESSAGE Network connection problems encountered during search.
+!SESSION 2013-02-01 20:18:36.793 -----------------------------------------------
+eclipse.buildId=M20070921-1145
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2013-02-01 20:19:51.178
+!MESSAGE Network connection problems encountered during search.
+!SESSION 2013-02-04 09:58:52.639 -----------------------------------------------
+eclipse.buildId=M20070921-1145
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2013-02-04 09:59:51.506
+!MESSAGE Network connection problems encountered during search.
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-02-04 10:20:55.456
+!MESSAGE   does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-02-04 10:21:08.625
+!MESSAGE   does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-02-04 10:37:56.682
+!MESSAGE   does not exist
+!SESSION 2013-02-04 10:45:27.993 -----------------------------------------------
+eclipse.buildId=M20070921-1145
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2013-02-04 10:46:26.423
+!MESSAGE Network connection problems encountered during search.
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-02-04 11:06:07.617
+!MESSAGE   does not exist
